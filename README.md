@@ -18,12 +18,11 @@ A RAG chatbot that ingests static web pages from URL, extracts webpage content v
 - Gradio: web frontend UI
 
 ## 📋 Prerequisites
-1. Install [Ollama](https://ollama.com/)
-2. Pull required models from your terminal:
-```bash
-ollama pull nomic-embed-text
-ollama pull llama3.2
-## 3.Create and activate conda environment
+- Conda (Miniconda or Anaconda)
+- Git
+- OpenAI API Key (place in `.env` file)
+
+## 3. Create and activate conda environment
 ```bash
 conda create -n webrag python=3.11
 conda activate webrag
