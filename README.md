@@ -1,4 +1,3 @@
-```
 # Web Knowledge Base QA Chatbot
 A RAG chatbot that ingests static web pages from URL, extracts webpage content via a custom web crawler, builds a vector knowledge base, and answers questions with source citations.
 
