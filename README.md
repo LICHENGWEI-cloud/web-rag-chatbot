@@ -23,8 +23,7 @@ A RAG chatbot that ingests static web pages from URL, extracts webpage content v
 ```bash
 ollama pull nomic-embed-text
 ollama pull llama3.2
-
-## Create and activate conda environment
+3.Create and activate conda environment
 ```bash
 conda create -n webrag python=3.11
 conda activate webrag
