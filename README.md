@@ -56,6 +56,7 @@ Open browser and visit: `http://127.0.0.1:7860`
 4. Review AI-generated answer and original source `page_content` for reference
 
 ## 📸 Demo Screenshot
+![Demo Screenshot](./demo.png)
 
 ## ⚠️ Limitations
 
